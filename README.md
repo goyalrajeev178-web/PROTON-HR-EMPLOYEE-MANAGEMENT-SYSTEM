@@ -69,7 +69,7 @@ Note: The actual project structure may vary depending on your IDE.
 ⚙️ Installation & Setup
 1. Clone the Repository
 bash
-git clone https://github.com/YOUR-USERNAME/PROTON-HR.git
+git clone https://github.com/goyalrajeev178-web/PROTON-HR-EMPLOYEE-MANAGEMENT-SYSTEM.git
 
 2. Open the Project
 
